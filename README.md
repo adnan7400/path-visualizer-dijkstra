@@ -1,5 +1,7 @@
 ## Available Scripts
 
+Try it yourself: https://jovial-bohr-7ebd70.netlify.app/
+
 Clone the project directory, and in directory run:
 
 ### `npm start`
